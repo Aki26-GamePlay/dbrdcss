@@ -16,8 +16,7 @@
 }
 
 .dbrd-avatar-hover:hover {
-    border-radius: 20%;
-    transition-duration: 250ms;
+    border-radius: 30%;
 }
 
 .dbrd-bg-dark {
