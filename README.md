@@ -14,7 +14,7 @@ How To Use
 - dbrd-bg-red
 - dbrd-bg-rangerbot
 ```html
-<div class="dbrd-bg-{colorname}">
+<div class="{colorname}">
 ```
 ---
 **avatar(profile pic)**
