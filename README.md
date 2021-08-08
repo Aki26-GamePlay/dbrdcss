@@ -22,7 +22,7 @@ How To Use
 - dbrd-avatar - rounded avatar
 - dbrd-avatar-hover - rounded avatar with hover function
 ```html
-<img src="url/path" class="dbrd-avatar">
+<img src="url/path" class="{avatartype}">
 ```
 ---
 HTML
